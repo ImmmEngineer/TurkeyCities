@@ -1,0 +1,1150 @@
+[
+  {
+    "id": 1001,
+    "plaka": 1,
+    "il_adi": "ADANA",
+    "imageName": "Adana",
+    "coordinates": {
+      "lat": 37,
+      "lon": 35.3213333
+    },
+    "hakkinda": "Adana, Türkiye'nin Güneydoğu Anadolu Bölgesi'nde yer alan önemli bir şehirdir. Akdeniz iklimine sahip olan Adana, tarım ve sanayi alanında gelişmiş bir yapıya sahiptir.",
+    "isFavorite": true,
+    "bölge": "Güneydoğu Anadolu",
+    "isFeatured": false
+  },
+  {
+    "id": 1002,
+    "plaka": 2,
+    "il_adi": "ADIYAMAN",
+    "imageName": "Adıyaman",
+    "coordinates": {
+      "lat": 37.7641667,
+      "lon": 38.2761667
+    },
+    "hakkinda": "Adıyaman, Güneydoğu Anadolu Bölgesi'nde tarihi zenginliklere ev sahipliği yapan bir ildir. Nemrut Dağı gibi önemli turistik alanlara ev sahipliği yapar.",
+    "isFavorite": true,
+    "bölge": "Güneydoğu Anadolu",
+    "isFeatured": false
+  },
+  {
+    "id": 1003,
+    "plaka": 3,
+    "il_adi": "AFYONKARAHİSAR",
+    "imageName": "Afyonkarahisar",
+    "coordinates": {
+      "lat": 38.76376,
+      "lon": 30.54034
+    },
+    "hakkinda": "Afyonkarahisar, Türkiye'nin Ege Bölgesi'nde yer alan tarihi bir şehirdir. Termal suları, Afyonkarahisar Kalesi ve yöresel lezzetleri ile ünlüdür.",
+    "isFavorite": true,
+    "bölge": "Ege",
+    "isFeatured": true
+  },
+  {
+    "id": 1004,
+    "plaka": 4,
+    "il_adi": "AĞRI",
+    "imageName": "Ağrı",
+    "coordinates": {
+      "lat": 39.7216667,
+      "lon": 43.0566667
+    },
+    "hakkinda": "Ağrı, Doğu Anadolu Bölgesi'nde yer alan bir ildir. Ağrı Dağı ile ünlüdür ve aynı zamanda tarihî ve kültürel zenginliklere ev sahipliği yapar.",
+    "isFavorite": false,
+    "bölge": "Doğu Anadolu",
+    "isFeatured": false
+  },
+  {
+    "id": 1005,
+    "plaka": 5,
+    "il_adi": "AMASYA",
+    "imageName": "Amasya",
+    "coordinates": {
+      "lat": 40.65,
+      "lon": 35.8333333
+    },
+    "hakkinda": "Amasya, Türkiye'nin Karadeniz Bölgesi'nde yer alan tarihi ve doğal güzelliklere sahip bir şehirdir. Amasya Kalesi ve tarihi evleri ile bilinir.",
+    "isFavorite": false,
+    "bölge": "Karadeniz",
+    "isFeatured": true
+  },
+  {
+    "id": 1006,
+    "plaka": 6,
+    "il_adi": "ANKARA",
+    "imageName": "Ankara",
+    "coordinates": {
+      "lat": 39.92077,
+      "lon": 32.85411
+    },
+    "hakkinda": "Ankara, Türkiye'nin başkenti ve en büyük ikinci şehridir. Modern yapıları, tarihi müzeleri ve Anıtkabir gibi önemli simgeleri içerir.",
+    "isFavorite": false,
+    "bölge": "İç Anadolu",
+    "isFeatured": false
+  },
+  {
+    "id": 1007,
+    "plaka": 7,
+    "il_adi": "ANTALYA",
+    "imageName": "Antalya",
+    "coordinates": {
+      "lat": 36.88414,
+      "lon": 30.70563
+    },
+    "hakkinda": "Antalya, Akdeniz Bölgesi'nde turizm açısından önemli bir şehirdir. Antik kentleri, plajları ve tarihi kalıntıları ile ünlüdür.",
+    "isFavorite": false,
+    "bölge": "Akdeniz",
+    "isFeatured": true
+  },
+  {
+    "id": 1008,
+    "plaka": 8,
+    "il_adi": "ARTVİN",
+    "imageName": "Artvin",
+    "coordinates": {
+      "lat": 41.1833333,
+      "lon": 41.8166667
+    },
+    "hakkinda": "Artvin, Karadeniz Bölgesi'nde yer alan doğal güzelliklere sahip bir şehirdir. Kaçkar Dağları ve Karagöl gibi önemli turistik bölgelere ev sahipliği yapar.",
+    "isFavorite": false,
+    "bölge": "Karadeniz",
+    "isFeatured": false
+  },
+  {
+    "id": 1009,
+    "plaka": 9,
+    "il_adi": "AYDIN",
+    "imageName": "Aydın",
+    "coordinates": {
+      "lat": 37.8444,
+      "lon": 27.8458
+    },
+    "hakkinda": "Aydın, Ege Bölgesi'nde yer alan tarihi zenginliklere sahip bir şehirdir. Antik kentleri, Afrodisyas Antik Kenti ve deniz turizmi ile bilinir.",
+    "isFavorite": false,
+    "bölge": "Ege",
+    "isFeatured": false
+  },
+  {
+    "id": 1010,
+    "plaka": 10,
+    "il_adi": "BALIKESİR",
+    "imageName": "Balıkesir",
+    "coordinates": {
+      "lat": 39.648369,
+      "lon": 27.88261
+    },
+    "hakkinda": "Balıkesir, Marmara Bölgesi'nin önemli şehirlerinden biridir. Zeytin ağaçlarıyla çevrili kırsal alanları, sahil bölgeleri ve tarihi dokusu ile dikkat çeker.",
+    "isFavorite": false,
+    "bölge": "Marmara",
+    "isFeatured": false
+  },
+  {
+    "id": 1011,
+    "plaka": 11,
+    "il_adi": "BILECIK",
+    "imageName": "Bilecik",
+    "coordinates": {
+      "lat": 40.150131,
+      "lon": 29.983061
+    },
+    "hakkinda": "Bilecik, Marmara Bölgesi'nde tarihi ve kültürel zenginliklere sahip bir şehirdir. Osmanlı İmparatorluğu'nun kuruluşuna ev sahipliği yapmıştır.",
+    "isFavorite": false,
+    "bölge": "Marmara",
+    "isFeatured": false
+  },
+  {
+    "id": 1012,
+    "plaka": 12,
+    "il_adi": "BINGÖL",
+    "imageName": "Bingöl",
+    "coordinates": {
+      "lat": 38.8847222,
+      "lon": 40.4983333
+    },
+    "hakkinda": "Bingöl, Doğu Anadolu Bölgesi'nde yer alan bir ildir. Munzur Dağları ve doğal güzellikleri ile dikkat çeker.",
+    "isFavorite": false,
+    "bölge": "Doğu Anadolu",
+    "isFeatured": true
+  },
+  {
+    "id": 1013,
+    "plaka": 13,
+    "il_adi": "BİTLİS",
+    "imageName": "Bitlis",
+    "coordinates": {
+      "lat": 38.4,
+      "lon": 42.1
+    },
+    "hakkinda": "Bitlis, Doğu Anadolu Bölgesi'nde tarihi ve kültürel zenginliklere sahip bir ildir. Bitlis Kalesi ve Nemrut Krater Gölü gibi önemli turistik bölgelere ev sahipliği yapar.",
+    "isFavorite": false,
+    "bölge": "Doğu Anadolu",
+    "isFeatured": true
+  },
+  {
+    "id": 1014,
+    "plaka": 14,
+    "il_adi": "BOLU",
+    "imageName": "Bolu",
+    "coordinates": {
+      "lat": 40.73502,
+      "lon": 31.60502
+    },
+    "hakkinda": "Bolu, Karadeniz Bölgesi'nde doğal güzelliklere sahip olan bir şehirdir. Abant Gölü ve Yedigöller Milli Parkı gibi doğa harikalarına ev sahipliği yapar.",
+    "isFavorite": false,
+    "bölge": "Karadeniz",
+    "isFeatured": true
+  },
+  {
+    "id": 1015,
+    "plaka": 15,
+    "il_adi": "BURDUR",
+    "imageName": "Burdur",
+    "coordinates": {
+      "lat": 37.72028,
+      "lon": 30.29083
+    },
+    "hakkinda": "Burdur, Türkiye'nin Akdeniz Bölgesi'nde yer alan tarihi ve doğal güzelliklere sahip bir şehirdir. Burdur Gölü ve Bucak Kaplıcaları gibi önemli turistik alanlara ev sahipliği yapar.",
+    "isFavorite": false,
+    "bölge": "Akdeniz",
+    "isFeatured": false
+  },
+  {
+    "id": 1016,
+    "plaka": 16,
+    "il_adi": "BURSA",
+    "imageName": "Bursa",
+    "coordinates": {
+      "lat": 40.18257,
+      "lon": 29.06785
+    },
+    "hakkinda": "Bursa, Marmara Bölgesi'nin önemli şehirlerinden biridir. Osmanlı İmparatorluğu'nun ilk başkenti olan Bursa, tarihi ve kültürel zenginliklere sahiptir.",
+    "isFavorite": false,
+    "bölge": "Marmara",
+    "isFeatured": false
+  },
+  {
+    "id": 1017,
+    "plaka": 17,
+    "il_adi": "ÇANAKKALE",
+    "imageName": "Çanakkale",
+    "coordinates": {
+      "lat": 40.15531,
+      "lon": 26.41417
+    },
+    "hakkinda": "Çanakkale, Türkiye'nin Marmara Bölgesi'nde yer alan tarihi ve stratejik öneme sahip bir şehirdir. Gelibolu Yarımadası ve Truva Antik Kenti gibi önemli bölgelere ev sahipliği yapar.",
+    "isFavorite": false,
+    "bölge": "Marmara",
+    "isFeatured": false
+  },
+  {
+    "id": 1018,
+    "plaka": 18,
+    "il_adi": "ÇANKIRI",
+    "imageName": "Çankırı",
+    "coordinates": {
+      "lat": 40.6,
+      "lon": 33.6166667
+    },
+    "hakkinda": "Çankırı, Türkiye'nin Karadeniz Bölgesi'nde yer alan tarihi ve kültürel zenginliklere sahip bir şehirdir. Çankırı Kalesi ve Atabeygazi Gölü gibi turistik alanlara ev sahipliği yapar.",
+    "isFavorite": false,
+    "bölge": "Karadeniz",
+    "isFeatured": false
+  },
+  {
+    "id": 1019,
+    "plaka": 19,
+    "il_adi": "ÇORUM",
+    "imageName": "Çorum",
+    "coordinates": {
+      "lat": 40.55056,
+      "lon": 34.95579
+    },
+    "hakkinda": "Çorum, Karadeniz Bölgesi'nde tarihi ve kültürel zenginliklere sahip bir şehirdir. Hitit Medeniyeti'ne ait kalıntıları içeren Alacahöyük, şehirdeki önemli turistik bölgelerden biridir.",
+    "isFavorite": false,
+    "bölge": "Karadeniz",
+    "isFeatured": false
+  },
+  {
+    "id": 1020,
+    "plaka": 20,
+    "il_adi": "DENİZLİ",
+    "imageName": "Denizli",
+    "coordinates": {
+      "lat": 37.77417,
+      "lon": 29.0875
+    },
+    "hakkinda": "Denizli, Ege Bölgesi'nde yer alan tarihi ve doğal güzelliklere sahip bir şehirdir. Pamukkale Travertenleri, antik kentleri ve termal turizmi ile bilinir.",
+    "isFavorite": false,
+    "bölge": "Ege",
+    "isFeatured": true
+  },
+  {
+    "id": 1021,
+    "plaka": 21,
+    "il_adi": "DİYARBAKIR",
+    "imageName": "Diyarbakır",
+    "coordinates": {
+      "lat": 37.9144,
+      "lon": 40.2306
+    },
+    "hakkinda": "Diyarbakır, Güneydoğu Anadolu Bölgesi'nde tarihi ve kültürel zenginliklere sahip önemli bir şehirdir. Diyarbakır Surları ve Ulu Cami gibi önemli yapıları içerir.",
+    "isFavorite": false,
+    "bölge": "Güneydoğu Anadolu",
+    "isFeatured": false
+  },
+  {
+    "id": 1022,
+    "plaka": 22,
+    "il_adi": "DÜZCE",
+    "imageName": "Düzce",
+    "coordinates": {
+      "lat": 40.838737,
+      "lon": 31.163676
+    },
+    "hakkinda": "Düzce, Karadeniz Bölgesi'nde yer alan küçük ve şirin bir şehirdir. Doğal güzellikleri ve konumuyla dikkat çeker.",
+    "isFavorite": false,
+    "bölge": "Karadeniz",
+    "isFeatured": false
+  },
+  {
+    "id": 1023,
+    "plaka": 23,
+    "il_adi": "EDİRNE",
+    "imageName": "Edirne",
+    "coordinates": {
+      "lat": 41.6666667,
+      "lon": 26.5666667
+    },
+    "hakkinda": "Edirne, Türkiye'nin Marmara Bölgesi'nde tarihi ve kültürel birikime sahip önemli bir şehridir. Osmanlı İmparatorluğu'nun başkenti olmuştur.",
+    "isFavorite": false,
+    "bölge": "Marmara",
+    "isFeatured": true
+  },
+  {
+    "id": 1024,
+    "plaka": 24,
+    "il_adi": "ELAZIĞ",
+    "imageName": "Elazığ",
+    "coordinates": {
+      "lat": 38.681777,
+      "lon": 39.226389
+    },
+    "hakkinda": "Elazığ, Doğu Anadolu Bölgesi'nde yer alan tarihi ve kültürel zenginliklere sahip bir şehirdir. Harput Kalesi ve Hazarbaba Kayak Merkezi gibi önemli alanlara ev sahipliği yapar.",
+    "isFavorite": false,
+    "bölge": "Doğu Anadolu",
+    "isFeatured": false
+  },
+  {
+    "id": 1025,
+    "plaka": 25,
+    "il_adi": "ERZİNCAN",
+    "imageName": "Erzincan",
+    "coordinates": {
+      "lat": 39.75,
+      "lon": 39.5
+    },
+    "hakkinda": "Erzincan, Doğu Anadolu Bölgesi'nde yer alan tarihi ve kültürel bir şehirdir. Tarihi konakları ve Erzincan Tarihi Saat Kulesi şehrin önemli simgelerindendir.",
+    "isFavorite": false,
+    "bölge": "Doğu Anadolu",
+    "isFeatured": false
+  },
+  {
+    "id": 1026,
+    "plaka": 26,
+    "il_adi": "ERZURUM",
+    "imageName": "Erzurum",
+    "coordinates": {
+      "lat": 39.9047222,
+      "lon": 41.2677778
+    },
+    "hakkinda": "Erzurum, Doğu Anadolu Bölgesi'nde yer alan önemli bir şehirdir. Tarihi yapıları, Palandöken Dağları ve Türk-İslam Eserleri Müzesi ile bilinir.",
+    "isFavorite": false,
+    "bölge": "Doğu Anadolu",
+    "isFeatured": true
+  },
+  {
+    "id": 1027,
+    "plaka": 27,
+    "il_adi": "ESKİŞEHİR",
+    "imageName": "Eskişehir",
+    "coordinates": {
+      "lat": 39.7766667,
+      "lon": 30.5205556
+    },
+    "hakkinda": "Eskişehir, Türkiye'nin İç Anadolu Bölgesi'nde yer alan tarihi ve kültürel zenginliklere sahip bir şehirdir. Porsuk Çayı ve Odunpazarı Evleri şehrin önemli simgeleridir.",
+    "isFavorite": false,
+    "bölge": "İç Anadolu",
+    "isFeatured": false
+  },
+  {
+    "id": 1028,
+    "plaka": 28,
+    "il_adi": "GAZİANTEP",
+    "imageName": "Gaziantep",
+    "coordinates": {
+      "lat": 37.06622,
+      "lon": 37.38332
+    },
+    "hakkinda": "Gaziantep, Güneydoğu Anadolu Bölgesi'nde yer alan tarihi ve kültürel birikime sahip bir şehirdir. Gaziantep Kalesi ve Zeugma Mozaik Müzesi gibi önemli yapıları içerir.",
+    "isFavorite": false,
+    "bölge": "Güneydoğu Anadolu",
+    "isFeatured": true
+  },
+  {
+    "id": 1029,
+    "plaka": 29,
+    "il_adi": "GİRESUN",
+    "imageName": "Giresun",
+    "coordinates": {
+      "lat": 40.912811,
+      "lon": 38.38953
+    },
+    "hakkinda": "Giresun, Karadeniz Bölgesi'nde yer alan tarihi ve doğal güzelliklere sahip bir şehirdir. Giresun Adası ve Giresun Kalesi gibi önemli turistik alanlara ev sahipliği yapar.",
+    "isFavorite": false,
+    "bölge": "Karadeniz",
+    "isFeatured": false
+  },
+  {
+    "id": 1030,
+    "plaka": 30,
+    "il_adi": "GÜMÜŞHANE",
+    "imageName": "Gümüşhane",
+    "coordinates": {
+      "lat": 40.4602778,
+      "lon": 39.4813889
+    },
+    "hakkinda": "Gümüşhane, Karadeniz Bölgesi'nde yer alan doğal güzelliklere sahip bir şehirdir. Karaca Mağarası ve Tomara Şelalesi gibi turistik yerlere ev sahipliği yapar.",
+    "isFavorite": false,
+    "bölge": "Karadeniz",
+    "isFeatured": false
+  },
+  {
+    "id": 1031,
+    "plaka": 31,
+    "il_adi": "HAKKARİ",
+    "imageName": "Hakkari",
+    "coordinates": {
+      "lat": 37.5741667,
+      "lon": 43.7408333
+    },
+    "hakkinda": "Hakkari, Doğu Anadolu Bölgesi'nde yer alan bir ildir. Doğal güzelliklere sahip olan Hakkari, Cilo Dağları ve Sat Dağları gibi önemli bölgelere ev sahipliği yapar.",
+    "isFavorite": false,
+    "bölge": "Doğu Anadolu",
+    "isFeatured": false
+  },
+  {
+    "id": 1032,
+    "plaka": 32,
+    "il_adi": "HATAY",
+    "imageName": "Hatay",
+    "coordinates": {
+      "lat": 36.4014,
+      "lon": 36.3498
+    },
+    "hakkinda": "Hatay, Türkiye'nin güneyinde yer alan tarihi ve kültürel birikime sahip bir ildir. Antakya, Hatay Mozaik Müzesi ve Habib-i Neccar Camii şehirdeki önemli turistik bölgelerden bazılarıdır.",
+    "isFavorite": false,
+    "bölge": "Akdeniz",
+    "isFeatured": true
+  },
+  {
+    "id": 1033,
+    "plaka": 33,
+    "il_adi": "ISPARTA",
+    "imageName": "Isparta",
+    "coordinates": {
+      "lat": 37.7644444,
+      "lon": 30.5566667
+    },
+    "hakkinda": "Isparta, Türkiye'nin Akdeniz Bölgesi'nde yer alan tarihi ve doğal güzelliklere sahip bir şehirdir. Göl District ve Süleyman Demirel Baraj Gölü gibi önemli turistik alanlara ev sahipliği yapar.",
+    "isFavorite": false,
+    "bölge": "Akdeniz",
+    "isFeatured": false
+  },
+  {
+    "id": 1034,
+    "plaka": 34,
+    "il_adi": "İSTANBUL",
+    "imageName": "İstanbul",
+    "coordinates": {
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "hakkinda": "İstanbul, Türkiye'nin en kalabalık ve kültürel olarak en zengin şehridir. Boğaziçi Köprüsü, Ayasofya, Topkapı Sarayı ve Kapalıçarşı gibi dünya çapında tanınmış yapıları içerir.",
+    "isFavorite": true,
+    "bölge": "Marmara",
+    "isFeatured": true
+  },
+  {
+    "id": 1035,
+    "plaka": 35,
+    "il_adi": "İZMİR",
+    "imageName": "İzmir",
+    "coordinates": {
+      "lat": 38.4192,
+      "lon": 27.1287
+    },
+    "hakkinda": "İzmir, Ege Bölgesi'nin en büyük şehridir. Tarihi Smyrna kenti olarak bilinen İzmir, sahil bölgeleri, antik kentleri ve kültürel etkinlikleri ile bilinir.",
+    "isFavorite": true,
+    "bölge": "Ege",
+    "isFeatured": true
+  },
+  {
+    "id": 1036,
+    "plaka": 36,
+    "il_adi": "KAHRAMANMARAŞ",
+    "imageName": "Kahramanmaraş",
+    "coordinates": {
+      "lat": 37.5744444,
+      "lon": 36.9372222
+    },
+    "hakkinda": "Kahramanmaraş, Güneydoğu Anadolu Bölgesi'nde yer alan tarihi ve kültürel zenginliklere sahip bir şehirdir. Kahramanmaraş Kalesi ve Grand Bazaar şehirdeki önemli turistik bölgelerden bazılarıdır.",
+    "isFavorite": false,
+    "bölge": "Güneydoğu Anadolu",
+    "isFeatured": false
+  },
+  {
+    "id": 1037,
+    "plaka": 37,
+    "il_adi": "KARABÜK",
+    "imageName": "Karabük",
+    "coordinates": {
+      "lat": 41.2044,
+      "lon": 32.6256
+    },
+    "hakkinda": "Karabük, Türkiye'nin Karadeniz Bölgesi'nde yer alan küçük bir ildir. Safranbolu ilçesi UNESCO Dünya Mirası Listesi'nde yer almaktadır.",
+    "isFavorite": false,
+    "bölge": "Karadeniz",
+    "isFeatured": false
+  },
+  {
+    "id": 1038,
+    "plaka": 38,
+    "il_adi": "KARAMAN",
+    "imageName": "Karaman",
+    "coordinates": {
+      "lat": 37.1811,
+      "lon": 33.215
+    },
+    "hakkinda": "Karaman, Türkiye'nin İç Anadolu Bölgesi'nde yer alan tarihi ve kültürel zenginliklere sahip bir şehirdir. Binbir Kilise, Karaman Kalesi ve Aktekke Camii şehirdeki turistik yerlerden bazılarıdır.",
+    "isFavorite": false,
+    "bölge": "İç Anadolu",
+    "isFeatured": false
+  },
+  {
+    "id": 1039,
+    "plaka": 39,
+    "il_adi": "KARS",
+    "imageName": "Kars",
+    "coordinates": {
+      "lat": 40.5927,
+      "lon": 43.0779
+    },
+    "hakkinda": "Kars, Doğu Anadolu Bölgesi'nde yer alan tarihi ve kültürel bir şehirdir. Ani Harabeleri, Kars Kalesi ve Çıldır Gölü gibi önemli turistik alanlara ev sahipliği yapar.",
+    "isFavorite": false,
+    "bölge": "Doğu Anadolu",
+    "isFeatured": false
+  },
+  {
+    "id": 1040,
+    "plaka": 40,
+    "il_adi": "KASTAMONU",
+    "imageName": "Kastamonu",
+    "coordinates": {
+      "lat": 41.3887,
+      "lon": 33.7827
+    },
+    "hakkinda": "Kastamonu, Karadeniz Bölgesi'nde yer alan tarihi ve doğal güzelliklere sahip bir şehirdir. Kastamonu Kalesi ve Nasrullah Camii şehirdeki önemli turistik bölgelerden bazılarıdır.",
+    "isFavorite": false,
+    "bölge": "Karadeniz",
+    "isFeatured": true
+  },
+  {
+    "id": 1041,
+    "plaka": 41,
+    "il_adi": "KAYSERİ",
+    "imageName": "Kayseri",
+    "coordinates": {
+      "lat": 38.7312,
+      "lon": 35.4787
+    },
+    "hakkinda": "Kayseri, Türkiye'nin İç Anadolu Bölgesi'nde yer alan tarihi ve kültürel zenginliklere sahip bir şehirdir. Erciyes Kayak Merkezi ve Gevher Nesibe Müzesi şehrin turistik yerlerindendir.",
+    "isFavorite": false,
+    "bölge": "İç Anadolu",
+    "isFeatured": false
+  },
+  {
+    "id": 1042,
+    "plaka": 42,
+    "il_adi": "KIRIKKALE",
+    "imageName": "Kırıkkale",
+    "coordinates": {
+      "lat": 39.85,
+      "lon": 33.5
+    },
+    "hakkinda": "Kırıkkale, Türkiye'nin İç Anadolu Bölgesi'nde yer alan küçük bir ildir. Kent, tarihi ve doğal güzelliklere sahip olup, Kırıkkale Kalesi ve Balışeyh Türbesi gibi yerleri içermektedir.",
+    "isFavorite": false,
+    "bölge": "İç Anadolu",
+    "isFeatured": false
+  },
+  {
+    "id": 1043,
+    "plaka": 43,
+    "il_adi": "KIRKLARELİ",
+    "imageName": "Kırklareli",
+    "coordinates": {
+      "lat": 41.7333333,
+      "lon": 27.2166667
+    },
+    "hakkinda": "Kırklareli, Türkiye'nin Marmara Bölgesi'nde yer alan küçük bir şehirdir. Vize, Lüleburgaz ve Kıyıköy gibi önemli turistik bölgelere ev sahipliği yapar.",
+    "isFavorite": false,
+    "bölge": "Marmara",
+    "isFeatured": false
+  },
+  {
+    "id": 1044,
+    "plaka": 44,
+    "il_adi": "KIRŞEHİR",
+    "imageName": "Kırşehir",
+    "coordinates": {
+      "lat": 39.1425,
+      "lon": 34.1705556
+    },
+    "hakkinda": "Kırşehir, Türkiye'nin İç Anadolu Bölgesi'nde yer alan tarihi ve kültürel zenginliklere sahip bir şehirdir. Kaman Hatun Camii ve Nasreddin Hoca Külliyesi şehirdeki önemli turistik alanlardan bazılarıdır.",
+    "isFavorite": false,
+    "bölge": "İç Anadolu",
+    "isFeatured": false
+  },
+  {
+    "id": 1045,
+    "plaka": 45,
+    "il_adi": "KİLİS",
+    "imageName": "Kilis",
+    "coordinates": {
+      "lat": 36.718399,
+      "lon": 37.1217
+    },
+    "hakkinda": "Kilis, Güneydoğu Anadolu Bölgesi'nde yer alan küçük bir ildir. Türk mutfağının önemli lezzetlerinden olan Antep fıstığı, Kilis'in ünlü ürünlerindendir.",
+    "isFavorite": false,
+    "bölge": "Güneydoğu Anadolu",
+    "isFeatured": false
+  },
+  {
+    "id": 1046,
+    "plaka": 46,
+    "il_adi": "KOCAELİ",
+    "imageName": "Kocaeli",
+    "coordinates": {
+      "lat": 40.7666667,
+      "lon": 29.9166667
+    },
+    "hakkinda": "Kocaeli, Türkiye'nin Marmara Bölgesi'nde yer alan önemli bir şehirdir. Sanayi ve ticaret alanındaki gelişmişlik, şehrin ekonomik önemini artırmaktadır.",
+    "isFavorite": false,
+    "bölge": "Marmara",
+    "isFeatured": true
+  },
+  {
+    "id": 1047,
+    "plaka": 47,
+    "il_adi": "KONYA",
+    "imageName": "Konya",
+    "coordinates": {
+      "lat": 37.8666667,
+      "lon": 32.4833333
+    },
+    "hakkinda": "Konya, Türkiye'nin İç Anadolu Bölgesi'nde yer alan tarihi ve kültürel bir şehirdir. Mevlana Türbesi, Karatay Medresesi ve Konya Saat Kulesi şehirdeki turistik yerlerindendir.",
+    "isFavorite": false,
+    "bölge": "İç Anadolu",
+    "isFeatured": true
+  },
+  {
+    "id": 1048,
+    "plaka": 48,
+    "il_adi": "KÜTAHYA",
+    "imageName": "Kütahya",
+    "coordinates": {
+      "lat": 39.4166667,
+      "lon": 29.9833333
+    },
+    "hakkinda": "Kütahya, Türkiye'nin Ege Bölgesi'nde yer alan tarihi ve kültürel bir şehirdir. Kütahya Kalesi ve Çini Müzesi gibi yerler şehirdeki önemli turistik alanlardandır.",
+    "isFavorite": false,
+    "bölge": "Ege",
+    "isFeatured": false
+  },
+  {
+    "id": 1049,
+    "plaka": 49,
+    "il_adi": "MALATYA",
+    "imageName": "Malatya",
+    "coordinates": {
+      "lat": 38.3552,
+      "lon": 38.3095
+    },
+    "hakkinda": "Malatya, Doğu Anadolu Bölgesi'nde yer alan tarihi ve kültürel zenginliklere sahip bir şehirdir. Malatya Kalesi ve Atatürk Caddesi şehirdeki turistik yerlerdendir.",
+    "isFavorite": false,
+    "bölge": "Doğu Anadolu",
+    "isFeatured": false
+  },
+  {
+    "id": 1050,
+    "plaka": 50,
+    "il_adi": "MANİSA",
+    "imageName": "Manisa",
+    "coordinates": {
+      "lat": 38.619099,
+      "lon": 27.428921
+    },
+    "hakkinda": "Manisa, Türkiye'nin Ege Bölgesi'nde yer alan tarihi ve doğal güzelliklere sahip bir şehirdir. Sardes Antik Kenti ve Manisa Kalesi şehrin turistik yerlerindendir.",
+    "isFavorite": false,
+    "bölge": "Ege",
+    "isFeatured": false
+  },
+  {
+    "id": 1051,
+    "plaka": 51,
+    "il_adi": "MARDİN",
+    "imageName": "Mardin",
+    "coordinates": {
+      "lat": 37.3216667,
+      "lon": 40.7222222
+    },
+    "hakkinda": "Mardin, Güneydoğu Anadolu Bölgesi'nde yer alan tarihi ve kültürel bir şehirdir. Midyat Evleri ve Deyrulzafaran Manastırı şehrin turistik yerlerindendir.",
+    "isFavorite": false,
+    "bölge": "Güneydoğu Anadolu",
+    "isFeatured": true
+  },
+  {
+    "id": 1052,
+    "plaka": 52,
+    "il_adi": "MERSİN",
+    "imageName": "Mersin",
+    "coordinates": {
+      "lat": 36.8001,
+      "lon": 34.6318
+    },
+    "hakkinda": "Mersin, Türkiye'nin Akdeniz Bölgesi'nde yer alan tarihi ve doğal güzelliklere sahip bir şehirdir. Tarihi kentleri, kumsalları ve Cennet-Cehennem Mağaraları ile ünlüdür.",
+    "isFavorite": false,
+    "bölge": "Akdeniz",
+    "isFeatured": false
+  },
+  {
+    "id": 1053,
+    "plaka": 53,
+    "il_adi": "MUĞLA",
+    "imageName": "Muğla",
+    "coordinates": {
+      "lat": 37.2153,
+      "lon": 28.3636
+    },
+    "hakkinda": "Muğla, Türkiye'nin Ege Bölgesi'nde yer alan tarihi ve doğal güzelliklere sahip bir şehirdir. Bodrum, Marmaris ve Fethiye gibi turistik ilçelere ev sahipliği yapar.",
+    "isFavorite": false,
+    "bölge": "Ege",
+    "isFeatured": false
+  },
+  {
+    "id": 1054,
+    "plaka": 54,
+    "il_adi": "NEVŞEHİR",
+    "imageName": "Nevşehir",
+    "coordinates": {
+      "lat": 38.6244,
+      "lon": 34.7237
+    },
+    "hakkinda": "Nevşehir, Türkiye'nin İç Anadolu Bölgesi'nde yer alan tarihi ve doğal güzelliklere sahip bir şehirdir. Kapadokya bölgesi ile ünlüdür ve peri bacaları Nevşehir'in önemli simgelerindendir.",
+    "isFavorite": false,
+    "bölge": "İç Anadolu",
+    "isFeatured": true
+  },
+  {
+    "id": 1055,
+    "plaka": 55,
+    "il_adi": "NİĞDE",
+    "imageName": "Niğde",
+    "coordinates": {
+      "lat": 37.9666667,
+      "lon": 34.6833333
+    },
+    "hakkinda": "Niğde, Türkiye'nin İç Anadolu Bölgesi'nde yer alan küçük bir ildir. Niğde Kalesi ve Alaeddin Camii şehirdeki turistik yerlerdendir.",
+    "isFavorite": false,
+    "bölge": "İç Anadolu",
+    "isFeatured": false
+  },
+  {
+    "id": 1056,
+    "plaka": 56,
+    "il_adi": "ORDU",
+    "imageName": "Ordu",
+    "coordinates": {
+      "lat": 40.9833333,
+      "lon": 37.8833333
+    },
+    "hakkinda": "Ordu, Karadeniz Bölgesi'nde yer alan önemli şehirlerden biridir. Giresun'un doğusunda yer alır ve sahip olduğu doğal güzelliklerle dikkat çeker.",
+    "isFavorite": false,
+    "bölge": "Karadeniz",
+    "isFeatured": false
+  },
+  {
+    "id": 1057,
+    "plaka": 57,
+    "il_adi": "RİZE",
+    "imageName": "Rize",
+    "coordinates": {
+      "lat": 41.005,
+      "lon": 40.5219
+    },
+    "hakkinda": "Rize, Karadeniz Bölgesi'nde yer alan tarihi ve doğal güzelliklere sahip bir şehirdir. Fırtına Deresi, Ayder Yaylası ve Rize Kalesi şehirdeki turistik yerlerdendir.",
+    "isFavorite": false,
+    "bölge": "Karadeniz",
+    "isFeatured": false
+  },
+  {
+    "id": 1058,
+    "plaka": 58,
+    "il_adi": "SAKARYA",
+    "imageName": "Sakarya",
+    "coordinates": {
+      "lat": 40.7736667,
+      "lon": 30
+    },
+    "hakkinda": "Sakarya, Türkiye'nin Marmara Bölgesi'nde yer alan önemli şehirlerden biridir. Kent, doğal güzellikleri, akarsuları ve termal turizm olanakları ile bilinir.",
+    "isFavorite": false,
+    "bölge": "Marmara",
+    "isFeatured": false
+  },
+  {
+    "id": 1059,
+    "plaka": 59,
+    "il_adi": "SAMSUN",
+    "imageName": "Samsun",
+    "coordinates": {
+      "lat": 41.2866667,
+      "lon": 36.33
+    },
+    "hakkinda": "Samsun, Karadeniz Bölgesi'nde yer alan tarihi ve kültürel zenginliklere sahip bir şehirdir. Amisos Antik Kenti ve Bandırma Vapuru Müzesi şehirdeki turistik yerlerdendir.",
+    "isFavorite": false,
+    "bölge": "Karadeniz",
+    "isFeatured": true
+  },
+  {
+    "id": 1060,
+    "plaka": 60,
+    "il_adi": "SİİRT",
+    "imageName": "Siirt",
+    "coordinates": {
+      "lat": 37.9444444,
+      "lon": 41.9327778
+    },
+    "hakkinda": "Siirt, Güneydoğu Anadolu Bölgesi'nde yer alan tarihi ve kültürel bir şehirdir. Botan Çayı ve Siirt Kalesi şehirdeki turistik yerlerdendir.",
+    "isFavorite": false,
+    "bölge": "Güneydoğu Anadolu",
+    "isFeatured": false
+  },
+  {
+    "id": 1061,
+    "plaka": 61,
+    "il_adi": "TEKİRDAĞ",
+    "imageName": "Tekirdağ",
+    "coordinates": {
+      "lat": 40.9833333,
+      "lon": 27.5166667
+    },
+    "hakkinda": "Tekirdağ, Türkiye'nin Marmara Bölgesi'nde yer alan tarihi ve doğal güzelliklere sahip bir şehirdir. Malkara, Şarköy ve Kumbağ gibi önemli turistik alanlara ev sahipliği yapar.",
+    "isFavorite": false,
+    "bölge": "Marmara",
+    "isFeatured": false
+  },
+  {
+    "id": 1062,
+    "plaka": 62,
+    "il_adi": "TRABZON",
+    "imageName": "Trabzon",
+    "coordinates": {
+      "lat": 40.9833333,
+      "lon": 39.7333333
+    },
+    "hakkinda": "Trabzon, Karadeniz Bölgesi'nde yer alan tarihi ve doğal güzelliklere sahip bir şehirdir. Ayasofya Camii, Sümela Manastırı ve Uzungöl gibi yerler şehirdeki turistik alanlardandır.",
+    "isFavorite": false,
+    "bölge": "Karadeniz",
+    "isFeatured": true
+  },
+  {
+    "id": 1063,
+    "plaka": 63,
+    "il_adi": "TUNCELİ",
+    "imageName": "Tunceli",
+    "coordinates": {
+      "lat": 39.1083,
+      "lon": 39.547
+    },
+    "hakkinda": "Tunceli, Doğu Anadolu Bölgesi'nde yer alan küçük bir ildir. Munzur Dağları Milli Parkı ve Pertek Kalesi gibi doğal ve tarihi zenginliklere ev sahipliği yapar.",
+    "isFavorite": false,
+    "bölge": "Doğu Anadolu",
+    "isFeatured": false
+  },
+  {
+    "id": 1064,
+    "plaka": 64,
+    "il_adi": "UŞAK",
+    "imageName": "Uşak",
+    "coordinates": {
+      "lat": 38.5,
+      "lon": 29.5
+    },
+    "hakkinda": "Uşak, Türkiye'nin Ege Bölgesi'nde yer alan küçük bir şehirdir. Frig Vadisi, Uşak Müzesi ve Karun Hazineleri Müzesi şehirdeki turistik yerlerdendir.",
+    "isFavorite": false,
+    "bölge": "Ege",
+    "isFeatured": false
+  },
+  {
+    "id": 1065,
+    "plaka": 65,
+    "il_adi": "VAN",
+    "imageName": "Van",
+    "coordinates": {
+      "lat": 38.4941667,
+      "lon": 43.38
+    },
+    "hakkinda": "Van, Doğu Anadolu Bölgesi'nde yer alan tarihi ve kültürel zenginliklere sahip bir şehirdir. Van Gölü, Akdamar Adası ve Çavuştepe Kalesi gibi yerler şehirdeki turistik yerlerdendir.",
+    "isFavorite": false,
+    "bölge": "Doğu Anadolu",
+    "isFeatured": true
+  },
+  {
+    "id": 1066,
+    "plaka": 66,
+    "il_adi": "YALOVA",
+    "imageName": "Yalova",
+    "coordinates": {
+      "lat": 40.65,
+      "lon": 29
+    },
+    "hakkinda": "Yalova, Türkiye'nin Marmara Bölgesi'nde yer alan küçük bir ildir. Termal turizm açısından zengindir. Hersek Lagünü Milli Parkı ve Sudüşen Şelalesi gibi doğal alanları içerir.",
+    "isFavorite": false,
+    "bölge": "Marmara",
+    "isFeatured": false
+  },
+  {
+    "id": 1067,
+    "plaka": 67,
+    "il_adi": "YOZGAT",
+    "imageName": "Yozgat",
+    "coordinates": {
+      "lat": 39.82,
+      "lon": 34.8049
+    },
+    "hakkinda": "Yozgat, Türkiye'nin İç Anadolu Bölgesi'nde yer alan tarihi ve kültürel zenginliklere sahip bir şehirdir. Bozok Milli Parkı ve Akdağmadeni Kaplıcaları şehirdeki turistik yerlerdendir.",
+    "isFavorite": false,
+    "bölge": "İç Anadolu",
+    "isFeatured": false
+  },
+  {
+    "id": 1068,
+    "plaka": 68,
+    "il_adi": "ZONGULDAK",
+    "imageName": "Zonguldak",
+    "coordinates": {
+      "lat": 41.25,
+      "lon": 31.8333333
+    },
+    "hakkinda": "Zonguldak, Türkiye'nin Karadeniz Bölgesi'nde yer alan küçük bir şehirdir. Ereğli ilçesi, maden kömürü rezervleri ve sahil şeridiyle önemlidir.",
+    "isFavorite": false,
+    "bölge": "Karadeniz",
+    "isFeatured": true
+  },
+  {
+    "id": 1069,
+    "plaka": 69,
+    "il_adi": "AKSARAY",
+    "imageName": "Aksaray",
+    "coordinates": {
+      "lat": 38.3683,
+      "lon": 34.037
+    },
+    "hakkinda": "Aksaray, Türkiye'nin İç Anadolu Bölgesi'nde yer alan tarihi ve kültürel zenginliklere sahip bir şehirdir. Aksaray Müzesi ve Eğri Minare şehirdeki turistik yerlerdendir.",
+    "isFavorite": false,
+    "bölge": "İç Anadolu",
+    "isFeatured": false
+  },
+  {
+    "id": 1070,
+    "plaka": 70,
+    "il_adi": "BATMAN",
+    "imageName": "Batman",
+    "coordinates": {
+      "lat": 37.8812,
+      "lon": 41.1351
+    },
+    "hakkinda": "Batman, Güneydoğu Anadolu Bölgesi'nde yer alan genç bir şehirdir. Hasankeyf Antik Kenti ve Batman Çayı şehrin turistik yerlerindendir.",
+    "isFavorite": false,
+    "bölge": "Güneydoğu Anadolu",
+    "isFeatured": false
+  },
+  {
+    "id": 1071,
+    "plaka": 71,
+    "il_adi": "BAYBURT",
+    "imageName": "Bayburt",
+    "coordinates": {
+      "lat": 40.25,
+      "lon": 40.25
+    },
+    "hakkinda": "Bayburt, Türkiye'nin Karadeniz Bölgesi'nde yer alan küçük bir ildir. Tarihi Bayburt Kalesi ve Aydıntepe Höyüğü şehirdeki önemli turistik alanlardandır.",
+    "isFavorite": false,
+    "bölge": "Karadeniz",
+    "isFeatured": false
+  },
+  {
+    "id": 1072,
+    "plaka": 72,
+    "il_adi": "KARAMAN",
+    "imageName": "Karaman",
+    "coordinates": {
+      "lat": 37.1811,
+      "lon": 33.215
+    },
+    "hakkinda": "Karaman, Türkiye'nin İç Anadolu Bölgesi'nde yer alan tarihi ve kültürel zenginliklere sahip bir şehirdir. Binbir Kilise, Karaman Kalesi ve Aktekke Camii şehirdeki turistik yerlerden bazılarıdır.",
+    "isFavorite": false,
+    "bölge": "İç Anadolu",
+    "isFeatured": false
+  },
+  {
+    "id": 1073,
+    "plaka": 73,
+    "il_adi": "KIRIKKALE",
+    "imageName": "Kırıkkale",
+    "coordinates": {
+      "lat": 39.85,
+      "lon": 33.5
+    },
+    "hakkinda": "Kırıkkale, Türkiye'nin İç Anadolu Bölgesi'nde yer alan küçük bir ildir. Kent, tarihi ve doğal güzelliklere sahip olup, Kırıkkale Kalesi ve Balışeyh Türbesi gibi yerleri içermektedir.",
+    "isFavorite": false,
+    "bölge": "İç Anadolu",
+    "isFeatured": false
+  },
+  {
+    "id": 1074,
+    "plaka": 74,
+    "il_adi": "BATMAN",
+    "imageName": "Batman",
+    "coordinates": {
+      "lat": 37.8812,
+      "lon": 41.1351
+    },
+    "hakkinda": "Batman, Güneydoğu Anadolu Bölgesi'nde yer alan genç bir şehirdir. Hasankeyf Antik Kenti ve Batman Çayı şehrin turistik yerlerindendir.",
+    "isFavorite": false,
+    "bölge": "Güneydoğu Anadolu",
+    "isFeatured": false
+  },
+  {
+    "id": 1075,
+    "plaka": 75,
+    "il_adi": "ŞIRNAK",
+    "imageName": "Şırnak",
+    "coordinates": {
+      "lat": 37.5166667,
+      "lon": 42.4666667
+    },
+    "hakkinda": "Şırnak, Güneydoğu Anadolu Bölgesi'nde yer alan küçük bir şehirdir. Cizre ve Silopi gibi ilçeleri ile bilinir. Güneydoğu'nun önemli şehirlerinden biridir.",
+    "isFavorite": false,
+    "bölge": "Güneydoğu Anadolu",
+    "isFeatured": false
+  },
+  {
+    "id": 1076,
+    "plaka": 76,
+    "il_adi": "BARTIN",
+    "imageName": "Bartın",
+    "coordinates": {
+      "lat": 41.5833333,
+      "lon": 32.4333333
+    },
+    "hakkinda": "Bartın, Türkiye'nin Karadeniz Bölgesi'nde yer alan küçük bir ildir. Bartın Irmağı'nın kıyısında kurulmuş olup, doğal güzelliklere sahiptir.",
+    "isFavorite": false,
+    "bölge": "Karadeniz",
+    "isFeatured": false
+  },
+  {
+    "id": 1077,
+    "plaka": 77,
+    "il_adi": "ARDAHAN",
+    "imageName": "Ardahan",
+    "coordinates": {
+      "lat": 41.1108,
+      "lon": 42.7022
+    },
+    "hakkinda": "Ardahan, Türkiye'nin Doğu Anadolu Bölgesi'nde yer alan küçük bir ildir. Cıldır Gölü ve Dört Kilise gibi doğal ve tarihi zenginliklere ev sahipliği yapar.",
+    "isFavorite": false,
+    "bölge": "Doğu Anadolu",
+    "isFeatured": false
+  },
+  {
+    "id": 1078,
+    "plaka": 78,
+    "il_adi": "ARTVİN",
+    "imageName": "Artvin",
+    "coordinates": {
+      "lat": 41.1833333,
+      "lon": 41.8183333
+    },
+    "hakkinda": "Artvin, Türkiye'nin Karadeniz Bölgesi'nde yer alan tarihi ve doğal güzelliklere sahip bir şehirdir. Şavşat Yıldırım Beyazıt Camii ve Meryem Ana Manastırı şehrin turistik yerlerindendir.",
+    "isFavorite": false,
+    "bölge": "Karadeniz",
+    "isFeatured": false
+  },
+  {
+    "id": 1079,
+    "plaka": 79,
+    "il_adi": "KARABÜK",
+    "imageName": "Karabük",
+    "coordinates": {
+      "lat": 41.2,
+      "lon": 32.6333333
+    },
+    "hakkinda": "Karabük, Türkiye'nin Karadeniz Bölgesi'nde yer alan küçük bir ildir. Safranbolu ilçesi, tarihi konakları ve evleriyle ünlüdür.",
+    "isFavorite": false,
+    "bölge": "Karadeniz",
+    "isFeatured": false
+  },
+  {
+    "id": 1080,
+    "plaka": 80,
+    "il_adi": "KİLİS",
+    "imageName": "Kilis",
+    "coordinates": {
+      "lat": 36.7189,
+      "lon": 37.1217
+    },
+    "hakkinda": "Kilis, Türkiye'nin Güneydoğu Anadolu Bölgesi'nde yer alan küçük bir ildir. Kilis Kalesi ve Elbeyli Tabiat Parkı şehirdeki turistik yerlerdendir.",
+    "isFavorite": false,
+    "bölge": "Güneydoğu Anadolu",
+    "isFeatured": false
+  },
+  {
+    "id": 1081,
+    "plaka": 81,
+    "il_adi": "OSMANİYE",
+    "imageName": "Osmaniye",
+    "coordinates": {
+      "lat": 37.0681,
+      "lon": 36.2619
+    },
+    "hakkinda": "Osmaniye, Türkiye'nin Akdeniz Bölgesi'nde yer alan küçük bir ildir. Düziçi ilçesindeki Düldül Dağı ve Gaziantep Kalesi şehirdeki turistik yerlerden bazılarıdır.",
+    "isFavorite": false,
+    "bölge": "Akdeniz",
+    "isFeatured": false
+  },
+  {
+    "id": 1082,
+    "plaka": 82,
+    "il_adi": "DÜZCE",
+    "imageName": "Düzce",
+    "coordinates": {
+      "lat": 40.8388889,
+      "lon": 31.1638889
+    },
+    "hakkinda": "Düzce, Türkiye'nin Marmara Bölgesi'nde yer alan küçük bir ildir. Konuralp Müzesi ve Akçakoca ilçesindeki plajları şehirdeki turistik yerlerdendir.",
+    "isFavorite": false,
+    "bölge": "Marmara",
+    "isFeatured": false
+  }
+]
