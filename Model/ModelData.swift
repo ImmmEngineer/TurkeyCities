@@ -10,7 +10,6 @@ import Foundation
 @Observable
 class ModelData{
     var cities: [City] = load("iller.json")
-    var hikes: [Hike] = load("hikeData.json")
     
     var features : [City]{
         cities.filter{
